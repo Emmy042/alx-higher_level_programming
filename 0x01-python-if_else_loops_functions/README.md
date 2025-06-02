@@ -1,0 +1,1 @@
+this repo contins all the project task on python if, else and loops functions
