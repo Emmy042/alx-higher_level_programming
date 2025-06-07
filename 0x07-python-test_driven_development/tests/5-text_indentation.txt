@@ -1,0 +1,15 @@
+>>> text_indentation = __import__('5-text_indentation').text_indentation
+>>> text_indentation("Hello. How are you?")  # doctest: +NORMALIZE_WHITESPACE
+Hello.
+
+How are you?
+
+>>> text_indentation("This is fun: isn't it?")  # doctest: +NORMALIZE_WHITESPACE
+This is fun:
+
+Isn't it?
+
+>>> text_indentation(42)
+Traceback (most recent call last):
+...
+TypeError: text must be a string
