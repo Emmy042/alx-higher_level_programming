@@ -1,0 +1,1 @@
+thsi folder contains the task on python "almost a circle"
