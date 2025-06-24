@@ -1,0 +1,1 @@
+this folder contains all the project task on javascript warm_up done on ALX
