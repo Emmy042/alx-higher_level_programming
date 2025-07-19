@@ -1,0 +1,1 @@
+this folder contains all the mandatory tasks on javascript web jquery
